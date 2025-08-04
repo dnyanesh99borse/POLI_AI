@@ -1,5 +1,9 @@
 fastapi
 uvicorn
-openai
+httpx
 python-dotenv
+faiss-cpu
+sentence-transformers
+transformers
+torch
 PyMuPDF
